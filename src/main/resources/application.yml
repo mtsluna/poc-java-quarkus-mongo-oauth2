@@ -1,0 +1,4 @@
+quarkus:
+  mongodb:
+    database: demo
+    connection-string: mongodb://localhost:27017
